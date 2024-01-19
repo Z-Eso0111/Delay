@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Şifreli Link</title>
+</head>
+<body>
+  <h1>Şifreli Link</h1>
+  <input type="password" id="password" placeholder="Şifrenizi giriniz">
+  <button onclick="checkPassword()">Gönder</button>
+  <p id="link">
+    <b>Cross.X ve MauseDelayReset benim kodlamamdır diyer program benim deildir.</b>
+    <b>Programlarında bir tane bile virüs yoktur !</b>
+    <a href="https://www.python.org/">Python</a> indirmeyi unutmayın!
+  </p>
+</body>
+<script>
+function checkPassword() {
+  var password = document.getElementById("password").value;
+  if (password == "15973") {
+    document.getElementById("link").innerHTML = "<a href='https://github.com/Z-Eso0111/Delay/raw/main/MS_Delay.rar'>Dosyayı İndir</a>";
+  } else {
+    document.getElementById("link").innerHTML = "Şifre yanlış";
+  }
+}
+</script>
+</html>
