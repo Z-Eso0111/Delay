@@ -1,6 +1,6 @@
     --------------------------------------------------------------------------
 
-    Kurulum [Cross.X] :
+    Kurulum [Cross.X] : { Kullanıma Kapalıdır }
     Python kuruyoruz.
     [Not: Add python.exe to PATH seçeneğini açınız kurulum esnasında]
     Ardından Install.bat i açıyoruz ve bekliyorz.
