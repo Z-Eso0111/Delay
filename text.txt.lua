@@ -18,3 +18,12 @@
     Kurulum bittikten sonra Delay=0.py dosyasını çalıştırıyoruz.
 
     --------------------------------------------------------------------------
+
+    Kurulum [Z-GameBoost] :
+    Python kuruyoruz.
+    [Not: Add python.exe to PATH seçeneğini açınız kurulum esnasında]
+    [Not2: Isterseniz Python.bat çalıştırabilirsiniz]
+    Ardından Req[Instal].bat i açıyoruz ve bekliyoruz.
+    Kurulum bittikten sonra Z-GameBoost.py dosyasını çalıştırıyoruz.
+    
+    --------------------------------------------------------------------------
